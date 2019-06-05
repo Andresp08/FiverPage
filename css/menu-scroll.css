@@ -1,0 +1,1 @@
+.header-scroll{opacity:0;margin-top:-300px;position:fixed;width:100%;z-index:100;background-color:#fff;transition:all .5s ease;border-bottom:1px solid rgba(0,0,0,.1)}.header-scroll.activo{margin-top:0;opacity:1}.header-scroll .nav-link{color:#777!important}.header-scroll .btn-outline-success{color:#00b30c!important}.header-scroll .btn-outline-success:hover{color:#fff!important}
